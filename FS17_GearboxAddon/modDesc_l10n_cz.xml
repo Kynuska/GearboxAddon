@@ -137,59 +137,59 @@ Přidává do všech vozidel rozšířené ovládání řízení vozidel pomocí
 		<text name="gearboxMogliTIP_Inputs"              text="vložit"/>
 		
 		<!-- tool tips -->
-		<text name="gearboxMogliTIP_SPEEDLIMIT"          text="Limits the maximum speed according to the current cruise control speed"/>
-		<text name="gearboxMogliTIP_DIFFLOCKMIDDLE"      text="For wheel drive or locking of the middle differential"/>
-		<text name="gearboxMogliTIP_DIFFLOCKFRONT"       text="Locking of the front axle differential; requires 4wd"/>
-		<text name="gearboxMogliTIP_DIFFLOCKBACK"        text="Locking of the back axle differential"/>
-		<text name="gearboxMogliTIP_MINRPM"              text="Manual throttle"/>
-		<text name="gearboxMogliTIP_FIXEDRATIO"          text="Fixed gear ratio for continous variable transmissions"/>
-		<text name="gearboxMogliTIP_AUTOCLUTCH2"         text="Automatic clutch"/>
-		<text name="gearboxMogliTIP_AUTOMATIC"           text="Automatic shifting like the vehicle has in real life"/>
-		<text name="gearboxMogliTIP_AllAutoMode"         text="Setting for simplified mode; you can choose what should be shifted automatically"/>
-		<text name="gearboxMogliTIP_DrawTargetRpm"       text="Shows the target RPM in the HUD"/>
-		<text name="gearboxMogliTIP_DrawReqPower"        text="Shows the current power in the HUD"/>
-		<text name="gearboxMogliTIP_EnableAI"            text="Setting for the hired worker"/>
-		<text name="gearboxMogliTIP_SwapGearRangeKeys"   text="Swaps gears and group one"/>
-		<text name="gearboxMogliTIP_GearShifterMode"     text="Setting for sterring wheels with shifter"/>
-		<text name="gearboxMogliTIP_ShuttleShifterMode"  text="Setting for sterring wheels with shifter"/>
-		<text name="gearboxMogliTIP_MinTargetRpm"        text="Minimum target RPM"/>
-		<text name="gearboxMogliTIP_MaxTargetRpm"        text="Maximum target RPM"/>
-		<text name="gearboxMogliTIP_Range1ShifterMode"   text="Setting for sterring wheels with shifter"/>
-		<text name="gearboxMogliTIP_Range2ShifterMode"   text="Setting for sterring wheels with shifter"/>
+		<text name="gearboxMogliTIP_SPEEDLIMIT"          text="Omezuje max. rychlost v závislosti na aktuální rychlosti tempomatu"/>
+		<text name="gearboxMogliTIP_DIFFLOCKMIDDLE"      text="Pro pohon kol nebo uzamykání středního diferenciálu"/>
+		<text name="gearboxMogliTIP_DIFFLOCKFRONT"       text="Uzávěrka diferenciálu přední nápravy; pouze 4wd"/>
+		<text name="gearboxMogliTIP_DIFFLOCKBACK"        text="Uzávěrka diferenciálu zadní nápravy"/>
+		<text name="gearboxMogliTIP_MINRPM"              text="ruční plyn"/>
+		<text name="gearboxMogliTIP_FIXEDRATIO"          text="Stálý převodový poměr pro CVT"/>
+		<text name="gearboxMogliTIP_AUTOCLUTCH2"         text="Automatická spojka"/>
+		<text name="gearboxMogliTIP_AUTOMATIC"           text="Automatické reálné řazení"/>
+		<text name="gearboxMogliTIP_AllAutoMode"         text="Nastavení pro jednoduchý režim"/>
+		<text name="gearboxMogliTIP_DrawTargetRpm"       text="Zobrazí otáčky v HUD"/>
+		<text name="gearboxMogliTIP_DrawReqPower"        text="Zobrazí aktuální výkon v HUD"/>
+		<text name="gearboxMogliTIP_EnableAI"            text="Nastavení pro pomocníka"/>
+		<text name="gearboxMogliTIP_SwapGearRangeKeys"   text="Výměna řazení a skupiny"/>
+		<text name="gearboxMogliTIP_GearShifterMode"     text="Nastavení pro volanty s řadičkou"/>
+		<text name="gearboxMogliTIP_ShuttleShifterMode"  text="Nastavení pro volanty s řadičkou"/>
+		<text name="gearboxMogliTIP_MinTargetRpm"        text="Min. otáčky"/>
+		<text name="gearboxMogliTIP_MaxTargetRpm"        text="Max. otáčky"/>
+		<text name="gearboxMogliTIP_Range1ShifterMode"   text="Nastavení pro volanty s řadičkou"/>
+		<text name="gearboxMogliTIP_Range2ShifterMode"   text="Nastavení pro volanty s řadičkou"/>
 		
-		<text name="gearboxMogliTIP_MinAutoGearSpeed"    text="Lower limit of the gear speed in automatic mode"/>
-		<text name="gearboxMogliTIP_MaxAutoGearSpeed"    text="Upper limit of the gear speed in automatic mode"/>
-		<text name="gearboxMogliTIP_ResetFwdGear"        text="start gear forwards"/>
-		<text name="gearboxMogliTIP_ResetRevGear"        text="start gear backwards"/>
-		<text name="gearboxMogliTIP_ResetFwdRange"       text="start range 1 forwards"/>
-		<text name="gearboxMogliTIP_ResetRevRange"       text="start range 1 backwards"/>
-		<text name="gearboxMogliTIP_ResetFwdRange2"      text="start range 2 forwards"/>
-		<text name="gearboxMogliTIP_ResetRevRange2"      text="start range 2 backwards"/>
+		<text name="gearboxMogliTIP_MinAutoGearSpeed"    text="Nejnižší rychl. stupeň u automat. řazení"/>
+		<text name="gearboxMogliTIP_MaxAutoGearSpeed"    text="Nejvyžší rychl. stupeň u automat. řazení"/>
+		<text name="gearboxMogliTIP_ResetFwdGear"        text="Výchozí rychl. stupeň vpřed"/>
+		<text name="gearboxMogliTIP_ResetRevGear"        text="Výchozí rychl. stupeň vzad"/>
+		<text name="gearboxMogliTIP_ResetFwdRange"       text="Výchozí řada 1 vpřed"/>
+		<text name="gearboxMogliTIP_ResetRevRange"       text="Výchozí řada 1 vzad"/>
+		<text name="gearboxMogliTIP_ResetFwdRange2"      text="Výchozí řada 2 vpřed"/>
+		<text name="gearboxMogliTIP_ResetRevRange2"      text="Výchozí řada 1 vzad"/>
 		                                                
-		<text name="gearboxMogliTEXT_MinAutoGearSpeed"   text="min gear speed"/>
-		<text name="gearboxMogliTEXT_MaxAutoGearSpeed"   text="max gear speed"/>
-		<text name="gearboxMogliTEXT_ResetFwdGear"       text="start gear forwards"/>
-		<text name="gearboxMogliTEXT_ResetRevGear"       text="start gear backwards"/>
-		<text name="gearboxMogliTEXT_ResetFwdRange"      text="start range 1 forwards"/>
-		<text name="gearboxMogliTEXT_ResetRevRange"      text="start range 1 backwards"/>
-		<text name="gearboxMogliTEXT_ResetFwdRange2"     text="start range 2 forwards"/>
-		<text name="gearboxMogliTEXT_ResetRevRange2"     text="start range 2 backwards"/>
+		<text name="gearboxMogliTEXT_MinAutoGearSpeed"   text="Min. rychlost řazení"/>
+		<text name="gearboxMogliTEXT_MaxAutoGearSpeed"   text="Max. rychlost řazení"/>
+		<text name="gearboxMogliTEXT_ResetFwdGear"       text="Výchozí rychl. stupeň vpřed"/>
+		<text name="gearboxMogliTEXT_ResetRevGear"       text="Výchozí rychl. stupeň vzad"/>
+		<text name="gearboxMogliTEXT_ResetFwdRange"      text="Výchozí řada 1 vpřed"/>
+		<text name="gearboxMogliTEXT_ResetRevRange"      text="Výchozí řada 1 vzad"/>
+		<text name="gearboxMogliTEXT_ResetFwdRange2"     text="Výchozí řada 2 vpřed"/>
+		<text name="gearboxMogliTEXT_ResetRevRange2"     text="Výchozí řada 1 vzad"/>
 		
-		<text name="gearboxMogliTIP_EcoMode"             text="In eco mode the engines is optimized for less fuel consumption"/>
-		<text name="gearboxMogliTEXT_EcoMode"            text="eco mode"/>
-		<text name="gearboxMogliTIP_AccelerateToLimit"   text="Maximum rate to adjust speed to changed cruise control speed"/>
-		<text name="gearboxMogliTEXT_AccelerateToLimit"  text="Cruise control rate"/>
-		<text name="gearboxMogliTIP_ShuttleFactor"       text="Sensitivity of the shuttle control"/>		
-		<text name="gearboxMogliTEXT_ShuttleFactor"      text="sensitivity of shuttle control"/>		
+		<text name="gearboxMogliTIP_EcoMode"             text="V EKO režimu jsou motory optimalizovány pro nižší spotřebu paliva"/>
+		<text name="gearboxMogliTEXT_EcoMode"            text="EKO mód"/>
+		<text name="gearboxMogliTIP_AccelerateToLimit"   text="Přizpůsobení max. rychlosti tempomatu"/>
+		<text name="gearboxMogliTEXT_AccelerateToLimit"  text="Rychlost tempomatu"/>
+		<text name="gearboxMogliTIP_ShuttleFactor"       text="Citlivost ovládání"/>		
+		<text name="gearboxMogliTEXT_ShuttleFactor"      text="Citlivost ovládání"/>		
 		                                                
-		<text name="gearboxMogliTEXT_GrindingClutch"     text="cannot shift gear; clutch"/>
-		<text name="gearboxMogliTEXT_GrindingSpeed"      text="cannot shift gear; speed"/>
-		<text name="gearboxMogliTEXT_DoubleClutch"       text="cannot shift gear; RPM"/>
-		<text name="gearboxMogliTEXT_Stall1"             text="RPM is too low"/>
-		<text name="gearboxMogliTEXT_Stall2"             text="motor stopped because RPM was too low"/>
-		<text name="gearboxMogliTEXT_Stall3"             text="too much PTO power requested"/>
-		<text name="gearboxMogliTEXT_Stall4"             text="motor stopped because too much PTO power was requested"/>
-		<text name="gearboxMogliTEXT_ClutchOverheating"  text="clutch is overheating"/> 
+		<text name="gearboxMogliTEXT_GrindingClutch"     text="Nemohu zařadit; spojka"/>
+		<text name="gearboxMogliTEXT_GrindingSpeed"      text="Nemohu zařadit; rychlost"/>
+		<text name="gearboxMogliTEXT_DoubleClutch"       text="Nemohu zařadit; otáčky"/>
+		<text name="gearboxMogliTEXT_Stall1"             text="Příliš malé otáčky"/>
+		<text name="gearboxMogliTEXT_Stall2"             text="Příliš malé otáčky, motor se zastavil"/>
+		<text name="gearboxMogliTEXT_Stall3"             text="Málo výkonu na náhon"/>
+		<text name="gearboxMogliTEXT_Stall4"             text="Málo výkonu na náhon, motor se zastavil"/>
+		<text name="gearboxMogliTEXT_ClutchOverheating"  text="Spojka se přehřívá"/> 
 		
 		<!-- texts in the HUD => keep them short -->
 		<text name="gearboxMogliDRAW_difflock"           text="Zámek Dif"/>
@@ -211,8 +211,8 @@ Přidává do všech vozidel rozšířené ovládání řízení vozidel pomocí
 		<text name="gearboxMogliUNIT_HP"                 text="HP"/>		
 		<text name="gearboxMogliUNIT_kph"                text="km/h"/>		
 		<text name="gearboxMogliUNIT_mph"                text="mph"/>		
-		<text name="gearboxMogliUNIT_lph"                	text="l/h"/>
-		<text name="gearboxMogliUNIT_lp100km"            	text="l/100km"/>
-		<text name="gearboxMogliUNIT_tph"                	text="t/h"/>
+		<text name="gearboxMogliUNIT_lph"                text="l/h"/>
+		<text name="gearboxMogliUNIT_lp100km"            text="l/100km"/>
+		<text name="gearboxMogliUNIT_tph"                text="t/h"/>
 	</texts>
 </l10n>
